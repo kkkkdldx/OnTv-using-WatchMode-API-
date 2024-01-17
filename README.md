@@ -6,5 +6,5 @@ This application allows you to search for Movies and TV shows by genre that are 
 
 
 
-[This link](https://github.com/kkkkdldx/OnTv-using-WatchMode-API-/blob/7adfa5cad172ddfd9d902b7b4635f4673f60a77f/Movie%20App.pdf) has no title attribute.
+[Click here](https://github.com/kkkkdldx/OnTv-using-WatchMode-API-/blob/7adfa5cad172ddfd9d902b7b4635f4673f60a77f/Movie%20App.pdf) 
 
