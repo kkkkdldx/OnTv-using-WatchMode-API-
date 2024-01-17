@@ -4,4 +4,4 @@ This application allows you to search for Movies and TV shows by genre that are 
 
 **View this file for more details**
 
-Movie App.pdf
+[Movie App.pdf]
